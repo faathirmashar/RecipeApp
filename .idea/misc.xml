@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/RecipeApp/app/src/main/res/drawable/bg_color_gradient.xml" value="0.1615" />
+        <entry key="..\:/RecipeApp/app/src/main/res/drawable/ic_baseline_timer_24.xml" value="0.1045" />
+        <entry key="..\:/RecipeApp/app/src/main/res/layout/activity_detail.xml" value="0.2812006319115324" />
+        <entry key="..\:/RecipeApp/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/RecipeApp/app/src/main/res/layout/item_recepi.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

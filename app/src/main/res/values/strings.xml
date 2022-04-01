@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="name">Name</string>
+    <string name="headline">Headline</string>
+    <string name="time">PT35M</string>
+    <string name="desc">Description</string>
+    <string name="calories">Calories</string>
+    <string name="carbos">Carbos</string>
+    <string name="fat">Fats</string>
+    <string name="protein">Protein</string>
+    <string name="time_title">Time</string>
+    <string name="difficult">Difficult</string>
+</resources>
